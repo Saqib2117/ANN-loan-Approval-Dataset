@@ -12,7 +12,7 @@ The complete machine learning workflow includes data exploration, preprocessing,
 
 ## Importing Libraries
 
-The following libraries are used in this project:
+The following libraries are used in this assignment:
 
 - Pandas
 - NumPy
