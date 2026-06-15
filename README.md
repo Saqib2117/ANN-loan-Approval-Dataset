@@ -4,7 +4,7 @@
 
 This Assignment uses an **Artificial Neural Network (ANN)** built with **TensorFlow/Keras** to predict whether a loan application will be **Approved** or **Rejected** based on applicant information.
 
-The complete machine learning workflow includes data exploration, preprocessing, feature selection, model training, evaluation, and prediction.
+The complete deep learning workflow includes data exploration, preprocessing, feature selection, model training, evaluation, and prediction.
 
 ---
 
